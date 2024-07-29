@@ -5,7 +5,8 @@ This repository contains the curriculum materials used for the Intelligent Contr
 # Extremum-Seeking-Control-Mass-Spring-Damper-System
 ## This is a work done with the help of Res. Asst. Berkem VURAL
 This work on Extremum Seeking Control (ESC) for a mass-spring-damper system includes a theoretical background, a Simulink example, a mathematical model, and a live script for controller comparison. It covers system dynamics, PI regulator control, and ESC application, enabling comprehensive controller comparisons via simulation.
-![image](https://github.com/ClaudiaYasar/Extremum-Seeking-Control-Mass-Spring-Damper-System/assets/132692602/47aef448-448e-43cb-8916-28d8cee604ad)
+
+<img src="ESC.jpg" width="900">
 
 # Acknowledgements
 I would like to express my gratitude to the students of the Intelligent Control Systems course of the YTÜ Control and Automation Engineering department, Class 2022 and 2023, whose dedication and hard work made this project possible. I am also deeply thankful to our Control Tech LAB team, Doctors Marco Rossi, and Melda Ulusoy for their invaluable contributions.
